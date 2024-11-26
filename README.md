@@ -49,13 +49,30 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
+i)
+module ex32(a,b,c,d,f1);
+input a,b,c,d;
+output f1;
+assign f1=((~b&~d)|(~a&b&d)|(a&b&~c));
+endmodule
+
+ii)
+module ex32(w,x,y,z,f2);
+input w,x,y,z;
+output f2;
+assign f2=((~y&z)|(w&y)|(x&y));
+endmodule
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
+![Screenshot 2024-11-26 184510](https://github.com/user-attachments/assets/677dfefe-474d-4ed7-8b1f-578060b6f3e9)
+![Screenshot 2024-11-26 185219](https://github.com/user-attachments/assets/eb9f7fa6-8807-4f2f-89d1-d2020511aa23)
 
-**Output/TIMING Waveform**
+**Waveform**
+![Screenshot 2024-11-26 184745](https://github.com/user-attachments/assets/d073b885-8df7-4d04-b9f5-0af66ef17bc4)
+![Uploading Screenshot 2024-11-26 185356.png…]()
 
 **Result:**
