@@ -73,6 +73,7 @@ Developed by: RegisterNumber:*/
 
 **Waveform**
 ![Screenshot 2024-11-26 184745](https://github.com/user-attachments/assets/d073b885-8df7-4d04-b9f5-0af66ef17bc4)
-![Uploading Screenshot 2024-11-26 185356.png…]()
+![Screenshot 2024-11-26 185356](https://github.com/user-attachments/assets/63eb823f-6ee8-4bf3-8dc2-0acb5cca5cc9)
+
 
 **Result:**
