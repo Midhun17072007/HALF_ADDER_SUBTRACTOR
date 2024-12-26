@@ -47,7 +47,7 @@ Figure -02 HALF Subtractor
 
 5.	For different input combinations generate the timing diagram.
 
-
+~~~
 **Program:**
 i)
 module ex32(a,b,c,d,f1);
@@ -65,7 +65,9 @@ endmodule
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:*/
+Developed by:MIDHUN S
+RegisterNumber:24001824 */
+~~~
 
 **RTL Schematic**
 ![Screenshot 2024-11-26 184510](https://github.com/user-attachments/assets/677dfefe-474d-4ed7-8b1f-578060b6f3e9)
