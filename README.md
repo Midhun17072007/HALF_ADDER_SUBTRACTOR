@@ -82,3 +82,4 @@ RegisterNumber:24001824 */
 
 
 **Result:**
+Thus the half and full subtractor are studied and the truth table are verified
